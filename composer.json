@@ -21,7 +21,7 @@
   ],
   "require": {
     "php": "^7|^8",
-    "szunisoft/mnb": "^1.0.1",
+    "szunisoft/mnb": "dev-master",
     "illuminate/support": "^6|^7|^8|^9",
     "illuminate/cache" : "^6|^7|^8|^9"
   },
@@ -56,5 +56,11 @@
         "SzuniSoft\\Mnb\\Laravel\\MnbServiceProvider"
       ]
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/tompait78/php-mnb"
+    }
+  ]
 }
