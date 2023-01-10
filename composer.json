@@ -1,5 +1,5 @@
 {
-  "name": "tompait78/laravel-mnb",
+  "name": "szunisoft/laravel-mnb",
   "license": "MIT",
   "description": "Laravel MNB (Magyar Nemzeti Bank)",
   "keywords": [
@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php": "^7 | ^8",
+    "php": "^7|^8",
     "szunisoft/mnb": "^1.0.1",
     "illuminate/support": "^6|^7|^8|^9",
     "illuminate/cache" : "^6|^7|^8|^9"
